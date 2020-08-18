@@ -1,9 +1,9 @@
 ## Welcome to My "ONEMORETRY LAB"
 
-This will record my learning process of CPP!
-I'd like to be a TA in game production.
-It's hard!
-But I can try one more time to achieve my dream.
+This will record my learning process of CPP!<br>
+I'd like to be a TA in game production.<br>
+It's hard!<br>
+But I can try one more time to achieve my dream.<br>
 
 ### Markdown
 
